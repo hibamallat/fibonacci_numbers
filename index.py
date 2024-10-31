@@ -4,7 +4,7 @@ count = 0
 n1 = 0
 n2 = 1
 
-if n == 0:
+if n <= 0:
     print("It should have a value of 1 or higher")
 elif n == 1:
     print(n1, end = ' ')
